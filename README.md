@@ -16,8 +16,9 @@ branch.
 The original implementation has been retained in the
 [`legacy`](https://github.com/ros/meta-ros/tree/legacy) branch.
 
-As of 2020-07-01, this branch can be used to build the February and March 2020
-releases of ROS 2 **dashing** and **eloquent** and **foxy** and ROS 1 **melodic**.
+As of 2020-08-24, this branch can be used to build the August 2020
+releases of ROS 2 **dashing** and **eloquent** and **foxy** and **rolling** and
+ROS 1 **melodic**.
 
 See [here](https://github.com/ros/meta-ros/wiki/OpenEmbedded-Build-Instructions)
 for instructions.
